@@ -1,5 +1,3 @@
 def main():
-    print("Hello Jenkins, code updated automatically!")
+    print("Hello Jenkins CI/CD Updated!")
 
-if __name__ == "__main__":
-    main()
